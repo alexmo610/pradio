@@ -1,71 +1,74 @@
-*****Bluegrass*****,-----------------------------------------------------,,
-Bluegrass Country,https://ice24.securenetsystems.net/WAMU,,
-Front Porch Bluegrass,https://listen.181fm.com/181-frontporch_64k.aac,,
-Got Radio,https://pureplay.cdnstream1.com/6000_64.aac/playlist.m3u8,,
-Radio Bristol Americana,https://bocm.streamguys1.com/americana.aac,,
-,-----------------------------------------------------,,
-a nevim (Nevim radio),http://stream.srg-ssr.ch/drs4news/mp3_128.m3u,,
-b (b radio),http://ice1.somafm.com/beatblender-128-mp3,,
-Alternative (BAGeL Radio),https://ais-sa3.cdnstream1.com/2606_128.aac,,
-Svobodný vysílač /České radio/,http://stream.svobodny-vysilac.cz:8000/live.mp3,,
-Alternative (The Alternative Project),http://c9.prod.playlists.ihrhls.com/4447/playlist.m3u8,,
-American Roots (Boot Liquor - SomaFM),http://somafm.com/bootliquor.pls,,
-Celtic (ThistleRadio - SomaFM),http://somafm.com/thistle.pls,,
-Chillout (Groove Salad - SomaFM),http://somafm.com/startstream=groovesalad.pls,,
-Groove Salad Classic (Early 2000s Ambient),https://somafm.com/gsclassic.pls,,
-n5MD Radio (Ambient and Experimental),https://somafm.com/n5md.pls,,
-Vaporwaves [SomaFM],https://somafm.com/vaporwaves.pls,,
-Commodore 64 Remixes (Slay Radio),http://www.slayradio.org/tune_in.php/128kbps/listen.m3u,,
-Covers (SomaFM),http://somafm.com/covers.pls,,
-Downtempo (Secret Agent - SomaFM),http://somafm.com/secretagent.pls,,
-Dub Step (Dub Step Beyond - SomaFM),http://somafm.com/dubstep.pls,,
-Electronic/Dance (Electronic Culture),http://www.shouted.fm/tunein/electro-dsl.m3u,,
-Folk (Folk Forward - SomaFM),http://somafm.com/folkfwd.pls,,
-Hip Hop (Hot 97 NYC),http://playerservices.streamtheworld.com/pls/WQHTAAC.pls,,
-Hip Hop (Power 1051 NYC),http://c11.prod.playlists.ihrhls.com/1481/playlist.m3u8,,
-House (Beat Blender - SomaFM),http://somafm.com/startstream=beatblender.pls,,
-Indie Pop (Indie Pop Rocks! - SomaFM),http://somafm.com/indiepop130.pls,,
-Intelligent dance music (Cliq Hop - SomaFM),http://somafm.com/startstream=cliqhop.pls,,
-Jazz (Sonic Universe - SomaFM),http://somafm.com/startstream=sonicuniverse.pls,,
-Lounge (Illinois Street Lounge - SomaFM),http://somafm.com/illstreet.pls,,
-The Trip: [SomaFM],https://somafm.com/thetrip.pls,,
-Pop (PopTron! - SomaFM),http://somafm.com/poptron.pls,,
-Pop/Rock/Urban  (Frequence 3 - Paris),http://streams.frequence3.net/hd-mp3.m3u,,
-Progressive (Tags Trance Trip - SomaFM),http://somafm.com/tagstrance.pls,,
-Public Radio (NPR National Public Radio Stream),https://npr-ice.streamguys1.com/live.mp3,,
-Reggae Dancehall (Ragga Kings),https://raggakings.radio:8443/stream.ogg,,
-Heavyweight Reggae,https://somafm.com/reggae.pls,,
-Rock (Digitalis - SomaFM),http://somafm.com/digitalis.pls,,
-Metal Detector,https://somafm.com/metal.pls,,
-DanceUK,https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk2.internet-radio.com:8024/listen.pls&t=.pls,,
-JazzGroove,https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://199.180.72.2:8015/listen.pls?sid=1&t=.pls,,
-*****České radia*****,-----------------------------------------------------,,
-Povídka,https://ice3.abradio.cz/povidka128.mp3,,
-Vltava /ČRo/,http://rozhlas.stream/vltava_mp3_256.mp3,,
-Sport /ČRo/,http://amp.cesnet.cz:8000/cro3.flac,,
-Radiožurnal /ČRo/,https://rozhlas.stream/radiozurnal_mp3_32.mp3,,
-ČRO Plus /ČRo/,https://rozhlas.stream/plus_mp3_64.mp3,,
-Rozhas 2 /ČRo/,https://rozhlas.stream/dvojka_mp3_128.mp3,,
-D-dur /ČRO/,https://rozhlas.stream/ddur_mp3_128.mp3,,
-Jazz /ČRo/,https://rozhlas.stream/jazz_mp3_64.mp3,,
-Pohoda /ČRo/,https://rozhlas.stream/pohoda_mp3_256.mp3,,
-Wave /ČRo/,https://rozhlas.stream/wave_mp3_64.mp3,,
-Radio Čas /ČR/,https://icecast6.play.cz/casradio128.mp3,,
-Radio Beat /ČR/,https://icecast2.play.cz/radiobeat128.mp3,,
-Rock Zone /ČR/,https://icecast2.play.cz/rockzone128.mp3,,
-Music Dreamer /České radio/,https://icecast9.play.cz/music-dreamer.mp3,,
-Country radio /České radio/,https://icecast4.play.cz/country128.mp3,,
-,-----------------------------------------------------,,
-Radio Paradise - Main Mix,http://stream.radioparadise.com/aac-128,,
-Jazz /saxo Francie/,https://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3,,
-DAB Plus Top 40 /české radio/,https://icecast6.play.cz/dabplus-top40.mp3,,
-Radio klasik /Budapešť/,http://37.251.146.169:8000/;stream.mp3,,
-Radio Paradise - Mellow Mix,http://stream.radioparadise.com/mellow-128,,
-Radio Paradise - Rock Mix,http://stream.radioparadise.com/rock-128,,
-Radio Paradise - Eclectic Mix,http://stream.radioparadise.com/eclectic-128,,
-Echoes of Bluemars,http://streams.echoesofbluemars.org:8000/bluemars.m3u,,
-Echoes of Bluemars - Cryosleep,http://streams.echoesofbluemars.org:8000/cryosleep.m3u,,
-Echoes of Bluemars - Voices from Within,http://streams.echoesofbluemars.org:8000/voicesfromwithin.m3u,,
-Synphaera Radio (Space Music),https://somafm.com/synphaera.pls,,
-Radio Levač (Serbian Folk & Country),http://213.239.205.210:8046/stream,,
-"Radio 35 (Serbian and English Pop, Folk, Country & Hits)",http://stream.radio035.net:8010/listen.pls,,
+# PyRadio Playlist File Format:
+# name,url,encoding,icon,profile,buffering,force-http,volume,referer,player
+*****České radia*****,-----------------------------------------------------
+Povídka,https://ice3.abradio.cz/povidka128.mp3
+Vltava /ČRo/,http://amp.cesnet.cz:8000/cro3-256.ogg
+Sport-radio žurnal,https://rozhlas.stream/sport_aac_128.aac
+Radiožurnal,http://amp.cesnet.cz:8000/cro1-256.ogg
+ČRO Plus /ČRo/,http://amp.cesnet.cz:8000/cro-plus.ogg
+D-dur,http://amp.cesnet.cz:8000/cro-d-dur-256.ogg
+Jazz /ČRo/,http://amp.cesnet.cz:8000/cro-jazz-256.ogg
+Pohoda /ČRo/,https://rozhlas.stream/pohoda_mp3_256.mp3
+Wave /ČRo/,http://amp.cesnet.cz:8000/z-cro-radio-wave-256.ogg
+Radio Čas,https://icecast7.play.cz/casradio128.mp3
+Radio Beat,https://icecast2.play.cz/radiobeat128.mp3
+Cas-Rock,https://icecast7.play.cz/casrock128.mp3
+Hey-radio,http://amp.cesnet.cz:8000/z-cro-radio-wave-256.ogg
+Oldies,https://ice2.radia.cz/oldiesradio128.aac,,,,7@128,1
+Music Dreamer,https://icecast9.play.cz/music-dreamer.mp3
+Country radio,https://icecast4.play.cz/country128.mp3
+Svobodný vysílač,http://stream.svobodny-vysilac.cz:8000/live.mp3
+,-----------------------------------------------------
+*****Bluegrass*****,-----------------------------------------------------
+Bluegrass Country,https://ice24.securenetsystems.net/WAMU
+Front Porch Bluegrass,https://listen.181fm.com/181-frontporch_64k.aac
+Got Radio,https://pureplay.cdnstream1.com/6000_64.aac/playlist.m3u8
+Radio Bristol Americana,https://bocm.streamguys1.com/americana.aac
+,-----------------------------------------------------
+a nevim (Nevim radio),http://stream.srg-ssr.ch/drs4news/mp3_128.m3u
+b (b radio),http://ice1.somafm.com/beatblender-128-mp3
+Alternative (BAGeL Radio),https://ais-sa3.cdnstream1.com/2606_128.aac
+Alternative (The Alternative Project),http://c9.prod.playlists.ihrhls.com/4447/playlist.m3u8
+American Roots (Boot Liquor - SomaFM),http://somafm.com/bootliquor.pls
+Celtic (ThistleRadio - SomaFM),http://somafm.com/thistle.pls
+Chillout (Groove Salad - SomaFM),http://somafm.com/startstream=groovesalad.pls
+Groove Salad Classic (Early 2000s Ambient),https://somafm.com/gsclassic.pls
+n5MD Radio (Ambient and Experimental),https://somafm.com/n5md.pls
+Vaporwaves [SomaFM],https://somafm.com/vaporwaves.pls
+Commodore 64 Remixes (Slay Radio),http://www.slayradio.org/tune_in.php/128kbps/listen.m3u
+Covers (SomaFM),http://somafm.com/covers.pls
+Downtempo (Secret Agent - SomaFM),http://somafm.com/secretagent.pls
+Dub Step (Dub Step Beyond - SomaFM),http://somafm.com/dubstep.pls
+Electronic/Dance (Electronic Culture),http://www.shouted.fm/tunein/electro-dsl.m3u
+Folk (Folk Forward - SomaFM),http://somafm.com/folkfwd.pls
+Hip Hop (Hot 97 NYC),http://playerservices.streamtheworld.com/pls/WQHTAAC.pls
+Hip Hop (Power 1051 NYC),http://c11.prod.playlists.ihrhls.com/1481/playlist.m3u8
+House (Beat Blender - SomaFM),http://somafm.com/startstream=beatblender.pls
+Indie Pop (Indie Pop Rocks! - SomaFM),http://somafm.com/indiepop130.pls
+Intelligent dance music (Cliq Hop - SomaFM),http://somafm.com/startstream=cliqhop.pls
+Jazz (Sonic Universe - SomaFM),http://somafm.com/startstream=sonicuniverse.pls
+Lounge (Illinois Street Lounge - SomaFM),http://somafm.com/illstreet.pls
+The Trip: [SomaFM],https://somafm.com/thetrip.pls
+Pop (PopTron! - SomaFM),http://somafm.com/poptron.pls
+Pop/Rock/Urban  (Frequence 3 - Paris),http://streams.frequence3.net/hd-mp3.m3u
+Progressive (Tags Trance Trip - SomaFM),http://somafm.com/tagstrance.pls
+Public Radio (NPR National Public Radio Stream),https://npr-ice.streamguys1.com/live.mp3
+Reggae Dancehall (Ragga Kings),https://raggakings.radio:8443/stream.ogg
+Heavyweight Reggae,https://somafm.com/reggae.pls
+Rock (Digitalis - SomaFM),http://somafm.com/digitalis.pls
+Metal Detector,https://somafm.com/metal.pls
+DanceUK,https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk2.internet-radio.com:8024/listen.pls&t=.pls
+JazzGroove,https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://199.180.72.2:8015/listen.pls?sid=1&t=.pls
+Radio Paradise - Main Mix,http://stream.radioparadise.com/aac-128
+Jazz /saxo Francie/,https://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3
+DAB Plus Top 40 /české radio/,https://icecast6.play.cz/dabplus-top40.mp3
+Radio klasik /Budapešť/,http://37.251.146.169:8000/;stream.mp3
+Radio Paradise - Mellow Mix,http://stream.radioparadise.com/mellow-128
+Radio Paradise - Rock Mix,http://stream.radioparadise.com/rock-128
+Radio Paradise - Eclectic Mix,http://stream.radioparadise.com/eclectic-128
+Echoes of Bluemars,http://streams.echoesofbluemars.org:8000/bluemars.m3u
+Echoes of Bluemars - Cryosleep,http://streams.echoesofbluemars.org:8000/cryosleep.m3u
+Echoes of Bluemars - Voices from Within,http://streams.echoesofbluemars.org:8000/voicesfromwithin.m3u
+Synphaera Radio (Space Music),https://somafm.com/synphaera.pls
+Radio Levač (Serbian Folk & Country),http://213.239.205.210:8046/stream
+"Radio 35 (Serbian and English Pop, Folk, Country & Hits)",http://stream.radio035.net:8010/listen.pls
